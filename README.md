@@ -34,7 +34,7 @@ Here are some of my highlighted works:
 
 ---
 
-## 📈 GitHub Stats    
+## 📈 GitHub Stats            
 
 ![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan-sharma-0&show_icons=true&theme=tokyonight)
 
