@@ -4,10 +4,10 @@
 
 Hi there! I'm Rajan, a passionate frontend developer currently pursuing my B.Tech from MDU. I enjoy building interactive, user-friendly web applications with clean and efficient code. I love turning complex problems into simple, beautiful UI designs.
 
----
+---nm       
 
 ## 🚀 Tech Stack
-
+    
 - **Languages:** HTML, CSS, JavaScript
 - **Frontend:** React.js, Tailwind CSS, Bootstrap
 - **Backend:** Spring Boot (basics)
