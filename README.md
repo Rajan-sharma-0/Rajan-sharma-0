@@ -42,7 +42,7 @@ Here are some of my highlighted works:
 
 ## 📫 Let's Connect
 
-- **Email:** nk800109@gmail.com*
+- **Email:** nk800109@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rajan-sharma-8aab19268
 
 
