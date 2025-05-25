@@ -6,7 +6,7 @@
 
 Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer currently pursuing my B.Tech in Computer Science from MDU. I specialize in building **responsive**, **user-friendly**, and **dynamic** web applications using modern technologies like **React.js**, **Tailwind CSS**, and **JavaScript**. I'm passionate about UI/UX, API integration, and continuously learning to enhance my craft.
 
----
+---   
 
 ## 🚀 Tech Stack
 
