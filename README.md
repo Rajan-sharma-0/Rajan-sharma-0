@@ -1,12 +1,12 @@
 # 💻 Rajan Sharma
 
-**Frontend Developer | React.js | Tailwind CSS | JavaScript Enthusiast**
+**Frontend Developer | React.js | Tailwind CSS | JavaScript Enthusiast | MERN Stack Developer**
 
 ![Developer GIF](https://github.com/Rajan-sharma-0/Rajan-sharma-0/assets/your_gif_path_here.gif)
 
 Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer currently pursuing my B.Tech in Computer Science from MDU. I specialize in building **responsive**, **user-friendly**, and **dynamic** web applications using modern technologies like **React.js**, **Tailwind CSS**, and **JavaScript**. I'm passionate about UI/UX, API integration, and continuously learning to enhance my craft.
 
----   
+---
 
 ## 🚀 Tech Stack
 
@@ -19,9 +19,15 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+**MERN Stack**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 **Backend & DB**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
@@ -40,9 +46,9 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 **Qubitnets** – *React Intern*  
 📆 *Mar 2024 – Feb 2025*
 
-- Developed web applications using React.js
-- Participated in code reviews and team collaborations
-- Fixed bugs and implemented new features
+- Developed web applications using React.js  
+- Participated in code reviews and team collaborations  
+- Fixed bugs and implemented new features  
 - Helped design clean, user-friendly interfaces
 
 ---
@@ -78,7 +84,7 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 ## 🎓 Education
 
 - **B.Tech (CSE)** – World College of Technology and Management (MDU)  
-  *2021 – 2025*
+  *2021 – 2025*  
 - **Class XII** – GBSSS No. 2, Uttam Nagar  
 - **Class X** – Govt. Co-Ed. Sec. School, Rajapur Khurd  
 
@@ -105,4 +111,3 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 ---
 
 _Thanks for stopping by! Let’s connect and create something awesome! 🚀_
-
