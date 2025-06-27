@@ -100,7 +100,7 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** nk800109@gmail.com  
+- 📧 **Email:** rajansharma800109@gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/rajan-sharma-8aab19268)  
 - 🧑‍💻 [**GitHub**](https://github.com/Rajan-sharma-0)
 
