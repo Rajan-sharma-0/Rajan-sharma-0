@@ -63,7 +63,7 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
   A fun & responsive periodic table using Tailwind CSS.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/interactive-periodic) | [🌐 Live](https://interactve-periodic.vercel.app)
 
-- 🤖 **Nova – Virtual Assistant**  
+- 🤖 **Nova – Virtual Assistant**      
   Voice-controlled Python assistant using PyQt5.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/Virtual-Assistant?tab=readme-ov-file#virtual-assistant)
 
