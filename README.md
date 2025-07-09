@@ -105,5 +105,4 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 - 🧑‍💻 [**GitHub**](https://github.com/Rajan-sharma-0)
 
 ---
-  
 _Thanks for stopping by! Let’s connect and create something awesome! 🚀_
