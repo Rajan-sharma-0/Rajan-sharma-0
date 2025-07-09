@@ -1,17 +1,16 @@
 # 💻 Rajan Sharma
 
-**Frontend Developer | React.js | Tailwind CSS | JavaScript Enthusiast | MERN Stack Developer**
+**Full Stack Developer | MERN Stack | React.js | Tailwind CSS | API Integration | JavaScript Enthusiast**
 
 ![Developer GIF](https://github.com/Rajan-sharma-0/Rajan-sharma-0/assets/your_gif_path_here.gif)
 
-Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer currently pursuing my B.Tech in Computer Science from MDU. I specialize in building **responsive**, **user-friendly**, and **dynamic** web applications using modern technologies like **React.js**, **Tailwind CSS**, and **JavaScript**. I'm passionate about UI/UX, API integration, and continuously learning to enhance my craft.
+Hi there! I'm **Rajan**, a creative and detail-oriented **full stack developer** currently pursuing my B.Tech in Computer Science from MDU. I specialize in building **end-to-end web applications** that are fast, scalable, and user-friendly using modern technologies like **MERN Stack**, **Tailwind CSS**, and **REST APIs**. I'm passionate about UI/UX, backend architecture, and creating seamless user experiences.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages & Frontend**
-
+### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,52 +18,51 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-**MERN Stack**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools**
-
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
 ## 🧠 Experience
 
-**Qubitnets** – *React Intern*  
+**Qubitnets** – *Full Stack Developer Intern*  
 📆 *Mar 2024 – Feb 2025*
 
-- Developed web applications using React.js  
-- Participated in code reviews and team collaborations  
-- Fixed bugs and implemented new features  
-- Helped design clean, user-friendly interfaces
+- Built and maintained full-stack web apps using React, Node.js, and MongoDB  
+- Integrated APIs and third-party services for real-time updates  
+- Optimized backend for performance and scalability  
+- Collaborated on Git-based workflows with other developers
 
 ---
 
 ## 📌 Featured Projects
 
 - 🎨 **Interior AI Wall Color Changer**  
-  React app to change wall colors in images using AI.  
+  A full stack AI-based React app to change wall colors in uploaded images.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/wall-color-changer)
 
 - 🩸 **BloodFinder – Blood Donation Website**  
-  OAuth2 + JWT powered full-stack app for connecting donors and receivers.  
+  OAuth2 + JWT-powered MERN stack platform for connecting donors and receivers.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/blood-donation) | [🌐 Live](https://blood-finder-chi.vercel.app)
 
 - 🔬 **Interactive Periodic Table**  
-  A fun & responsive periodic table using Tailwind CSS.  
+  A fun & educational periodic table using React + Tailwind CSS.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/interactive-periodic) | [🌐 Live](https://interactve-periodic.vercel.app)
 
 - 🤖 **Nova – Virtual Assistant**      
-  Voice-controlled Python assistant using PyQt5.  
+  Voice-activated Python-based desktop assistant using PyQt5.  
   [🔗 GitHub](https://github.com/Rajan-sharma-0/Virtual-Assistant?tab=readme-ov-file#virtual-assistant)
 
 ---
@@ -105,4 +103,5 @@ Hi there! I'm **Rajan**, a creative and detail-oriented frontend developer curre
 - 🧑‍💻 [**GitHub**](https://github.com/Rajan-sharma-0)
 
 ---
-_Thanks for stopping by! Let’s connect and create something awesome! 🚀_
+
+_Thanks for stopping by! Let’s connect and create something impactful together! 🚀_
