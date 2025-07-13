@@ -104,6 +104,5 @@ Hi there! I'm **Rajan**, a creative and detail-oriented **full stack developer**
 
 ---
 
-
-
 _Thanks for stopping by! Let’s connect and create something impactful together! 🚀_
+  
