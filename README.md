@@ -1,60 +1,47 @@
 <div align="center">
 
-<!-- ██████████████  ANIMATED HEADER  ██████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,25:1a1a4e,50:7f5af0,75:2cb67d,100:ff6b6b&height=280&section=header&text=Rajan%20Sharma&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack&descAlignY=58&descAlign=50&stroke=7f5af0&strokeWidth=2" width="100%"/>
+<!-- ═══════════════════  HEADER BANNER  ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3d0066,80:7b2ff7,100:00d4ff&height=230&section=header&text=Rajan%20Sharma&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack&descAlignY=56&descAlign=50" width="100%"/>
 
-<!-- ██████████████  ANIMATED TYPING BANNER  ██████████████ -->
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2200&pause=700&color=7F5AF0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI+Systems;%F0%9F%8E%99%EF%B8%8F+Real-Time+Voice+AI+%E2%80%A2+PipeCat+%2B+LLMs;%F0%9F%94%8D+RAG+Pipelines+%E2%80%A2+LangChain+%E2%80%A2+FAISS;%F0%9F%8E%A8+Diffusion+Models+%E2%80%A2+Stable+Diffusion;%E2%9A%A1+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+AWS+%E2%80%A2+Docker;%F0%9F%9A%80+Turning+Data+into+Real-World+Impact!" alt="Typing SVG" />
-</a>
+<!-- ═══════════════════  TYPING ANIMATION  ═══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Real-Time+Voice+AI+%7C+PipeCat+%2B+LLMs;RAG+Pipelines+%7C+LangChain+%7C+FAISS;Diffusion+Models+%7C+Stable+Diffusion;FastAPI+%7C+PyTorch+%7C+AWS+%7C+Docker;Turning+Data+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ██████████████  ANIMATED BADGES ROW  ██████████████ -->
-
+<!-- ═══════════════════  BADGES  ═══════════════════ -->
 <a href="https://github.com/Rajan-sharma-0?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rajan-sharma-0?style=for-the-badge&color=7f5af0&labelColor=0d1117&logo=github&label=Followers&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/Rajan-sharma-0?style=for-the-badge&color=00d4ff&labelColor=0d0221&logo=github&label=Followers"/>
 </a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Rajan-sharma-0&style=for-the-badge&color=2cb67d&labelColor=0d1117&label=Profile+Views"/>&nbsp;
-<!-- <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2cb67d?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=2cb67d"/>&nbsp; -->
-<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Rajan-sharma-0&style=for-the-badge&color=ff006e&labelColor=0d0221&label=Profile+Views"/>&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-7b2ff7?style=for-the-badge&labelColor=0d0221"/>&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-adff2f?style=for-the-badge&labelColor=0d0221&logo=checkmarx&logoColor=white"/>
 
 <br/><br/>
 
-<!-- ██████████████  LOCATION / AVAILABILITY  ██████████████ -->
-
-![Location](https://img.shields.io/badge/📍_Faridabad,_Haryana-India-7f5af0?style=flat-square&labelColor=1a1a2e)
-![Role](https://img.shields.io/badge/💼_Jr._AI/ML_Engineer-Novatek_Solutions-2cb67d?style=flat-square&labelColor=1a1a2e)
-![Available](https://img.shields.io/badge/🌐_Available-Remote_|_Hybrid_|_Onsite-ff6b6b?style=flat-square&labelColor=1a1a2e)
+<!-- ═══════════════════  LOCATION PILLS  ═══════════════════ -->
+![Location](https://img.shields.io/badge/📍_Dwarka_Mor,_New_Delhi-India_🇮🇳-00d4ff?style=flat-square&labelColor=0d0221)&nbsp;
+![Role](https://img.shields.io/badge/💼_Jr._AI%2FML_Engineer-Novatek_Solutions-ff006e?style=flat-square&labelColor=0d0221)&nbsp;
+![Available](https://img.shields.io/badge/🌐_Available-Remote_|_Hybrid_|_Onsite-adff2f?style=flat-square&labelColor=0d0221)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ██████████████  ABOUT ME + CODE CARD  ██████████████ -->
+<!-- ═══════════════════  ABOUT + GIF  ═══════════════════ -->
+## 🧠 Who Am I?
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Who Am I?
-
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlqNHM4YWkwYjBsdnpvZ3NpeGgxanpvb3ZkaGpvMXFmdXR0NGduYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlqNHM4YWkwYjBsdnpvZ3NpeGgxanpvb3ZkaGpvMXFmdXR0NGduYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 #!/usr/bin/env python3
-# ╔══════════════════════════════════════╗
-# ║      Rajan Sharma — AI/ML Engineer  ║
-# ╚══════════════════════════════════════╝
+# Rajan Sharma — AI/ML Engineer
 
 class RajanSharma:
     def __init__(self):
         self.name      = "Rajan Sharma"
         self.role      = "Jr. AI/ML Engineer"
         self.company   = "Novatek Solutions"
-        self.location  = "Faridabad, Haryana 🇮🇳"
+        self.location  = "Dwarka Mor, New Delhi 🇮🇳"
         self.education = "B.Tech CSE — MDU (2021–2025)"
         self.status    = "🟢 Open to Opportunities"
 
@@ -72,52 +59,25 @@ class RajanSharma:
     def currently(self):
         return {
             "building" : "🎙️ Real-Time Voice Bot (PipeCat + LLMs)",
-            "learning" : ["🔬 LLM Fine-tuning","⚙️ MLOps","🧠 Advanced RAG"],
+            "learning" : ["LLM Fine-tuning", "MLOps", "Advanced RAG"],
             "seeking"  : "ML Engineer | AI Developer | Python Backend",
         }
 
     def __str__(self):
-        return "🚀 Let's build something intelligent together!"
+        return "Let's build something intelligent together! 🚀"
 
 print(RajanSharma())
 ```
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,25:7b2ff7,50:00d4ff,75:adff2f,100:ff006e&height=3" width="100%"/>
 
 ---
 
-<!-- ██████████████  ANIMATED STATS TRIFECTA  ██████████████ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Rajan-sharma-0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&bg_color=0d1117&ring_color=7f5af0"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan-sharma-0&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=7f5af0&text_color=c9d1d9&bg_color=0d1117"/>
-
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=Rajan-sharma-0&theme=radical&hide_border=true&ring=7f5af0&fire=ff6b6b&currStreakLabel=2cb67d&sideLabels=7f5af0&background=0d1117&stroke=7f5af0&dates=c9d1d9"/>
-
-<br/><br/>
-
-<!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rajan-sharma-0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%"/>
-
-<br/>
-
-<!-- Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan-sharma-0&theme=react-dark&bg_color=0d1117&color=7f5af0&line=7f5af0&point=2cb67d&hide_border=true&area=true&area_color=7f5af030&custom_title=Rajan's%20Contribution%20Graph"/>
-
-</div>
-
----
-
-<!-- ██████████████  AI/ML EXPERTISE TABLE  ██████████████ -->
-
-## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40"> &nbsp;AI / ML Expertise
+<!-- ═══════════════════  AI/ML EXPERTISE  ═══════════════════ -->
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
@@ -135,7 +95,7 @@ print(RajanSharma())
 ╠══════════════════════╬═══════════════════════════════════════════════════╣
 ║  📝 NLP              ║  Vector DBs · Cosine Similarity · Doc Processing  ║
 ╠══════════════════════╬═══════════════════════════════════════════════════╣
-║  ⚙️ ML OPS           ║  FastAPI · Docker · Model Serving · CI/CD         ║
+║  ⚙️ ML OPS           ║  FastAPI · Docker · AWS · Model Serving · CI/CD  ║
 ╠══════════════════════╬═══════════════════════════════════════════════════╣
 ║  🗄️ DATA ENG.        ║  ETL Pipelines · MongoDB · Automation · Monitoring║
 ╚══════════════════════╩═══════════════════════════════════════════════════╝
@@ -145,240 +105,193 @@ print(RajanSharma())
 
 ---
 
-<!-- ██████████████  TECH STACK  ██████████████ -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38"> &nbsp;Tech Arsenal
+<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🧠 AI & ML Core
+### AI & ML Core
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8" />
-<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
-![PipeCat](https://img.shields.io/badge/🎙️_PipeCat-FF6B6B?style=flat-square)&nbsp;
-![FAISS](https://img.shields.io/badge/FAISS_VectorDB-0467DF?style=flat-square&logo=meta&logoColor=white)&nbsp;
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7f5af0?style=flat-square)
-
-<br/>
-
-### ⚡ Backend & APIs
+### Backend & APIs
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=8" />
 
-<br/>
-
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,aws,docker,azure,vercel&theme=dark&perline=8" />
 
-<br/>
-
-### 🎨 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&theme=dark&perline=8" />
 
-<br/>
-
-### 🛠️ Tools & DevOps
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=8" />
 
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-00d4ff?style=flat-square&logo=langchain&logoColor=black)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-7b2ff7?style=flat-square&logo=openai&logoColor=white)&nbsp;
+![PipeCat](https://img.shields.io/badge/PipeCat-ff006e?style=flat-square)&nbsp;
+![FAISS](https://img.shields.io/badge/FAISS_VectorDB-00d4ff?style=flat-square&logo=meta&logoColor=black)&nbsp;
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-adff2f?style=flat-square)&nbsp;
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,25:adff2f,50:ff006e,75:7b2ff7,100:00d4ff&height=3" width="100%"/>
 
 ---
 
-<!-- ██████████████  PROJECTS  ██████████████ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp;Featured AI Projects
+<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
+## 🚀 Featured AI Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=4000&color=2CB67D&center=true&vCenter=true&width=520&lines=Here+are+the+projects+I%27m+most+proud+of+%F0%9F%9A%80" alt="" />
-</div>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=4000&color=00D4FF&center=true&vCenter=true&width=500&lines=Here+are+the+projects+I%27m+most+proud+of..." alt="" />
 
-<!-- Project 1 -->
-<table>
-<tr>
-<td width="50px" align="center">🗣️</td>
-<td>
+---
 
-### Real-Time AI Voice Bot
-`PipeCat` &nbsp; `WebSockets` &nbsp; `LLMs` &nbsp; `STT/TTS` &nbsp; `Python`
+### 🗣️ Real-Time AI Voice Bot
+#### `PipeCat` · `WebSockets` · `LLMs` · `STT/TTS` · `Python`
 
-Built a **production-grade modular voice AI backend** enabling real-time conversations. Integrated Speech-to-Text → LLM → Text-to-Speech as a streaming pipeline over WebSockets. Achieved **~30% latency reduction** through optimized event loops.
+> Built a **production-grade modular voice AI backend** enabling real-time conversations. Integrated Speech-to-Text → LLM → Text-to-Speech as a streaming pipeline over WebSockets. Achieved **~30% latency reduction** through optimized event loops and streaming architecture.
 
 | ✅ STT → LLM → TTS Pipeline | ✅ ~30% Latency Reduction |
 |---|---|
 | ✅ WebSocket Streaming Arch | ✅ Natural Conversational Flow |
 
-</td>
-</tr>
-</table>
+`Python` `PipeCat` `WebSockets` `LLMs` `Streaming`
 
-<!-- Project 2 -->
-<table>
-<tr>
-<td width="50px" align="center">📄</td>
-<td>
+---
 
-### RAG Chatbot — PDFs & Websites
-`LangChain` &nbsp; `FAISS` &nbsp; `FastAPI` &nbsp; `Embeddings` &nbsp; `Python`
+### 📄 RAG Chatbot — PDFs & Websites
+#### `LangChain` · `FAISS` · `FastAPI` · `Embeddings` · `Python`
 
-A **Retrieval-Augmented Generation pipeline** that ingests multiple PDFs and URLs, builds a semantic search layer using FAISS, and exposes real-time Q&A via FastAPI endpoints.
+> A **Retrieval-Augmented Generation pipeline** that ingests multiple PDFs and URLs, builds a semantic search layer using FAISS vector store, and exposes real-time Q&A via FastAPI endpoints.
 
 | ✅ Multi-PDF & URL Ingestion | ✅ FAISS Semantic Vector Search |
 |---|---|
 | ✅ FastAPI Real-Time Endpoints | ✅ Source-Grounded Answers |
 
-</td>
-</tr>
-</table>
+`Python` `LangChain` `FAISS` `FastAPI` `Embeddings` `RAG`
 
-<!-- Project 3 -->
-<table>
-<tr>
-<td width="50px" align="center">🎨</td>
-<td>
+---
 
-### Diffusion Model Image Generator
-`Stable Diffusion` &nbsp; `PyTorch` &nbsp; `Text-to-Image` &nbsp; `Img2Img`
+### 🎨 Diffusion Model Image Generator
+#### `Stable Diffusion` · `PyTorch` · `Text-to-Image` · `Img2Img`
 
-Prompt-driven **image synthesis system** using stable diffusion models. Supports text-to-image and image-to-image generation with custom noise scheduling.
+> Prompt-driven **image synthesis system** using stable diffusion models. Supports text-to-image and image-to-image generation. Improved fidelity via custom noise scheduling and sampling strategies.
 
 | ✅ Text-to-Image Generation | ✅ Image-to-Image Mode |
 |---|---|
 | ✅ Custom Noise Scheduling | ✅ Improved Fidelity Tuning |
 
-</td>
-</tr>
-</table>
-
-<!-- Project 4 -->
-<table>
-<tr>
-<td width="50px" align="center">🤖</td>
-<td>
-
-### Nova — Python Voice Assistant
-`PyQt5` &nbsp; `SpeechRecognition` &nbsp; `pyttsx3`
-
-Desktop voice assistant that executes system commands, searches the web, and integrates with APIs through natural spoken language.
-
-[![View Code](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan-sharma-0/Virtual-Assistant)
-
-</td>
-</tr>
-</table>
-
-<!-- Project 5 -->
-<table>
-<tr>
-<td width="50px" align="center">🏠</td>
-<td>
-
-### Interior AI Wall Color Changer
-`React` &nbsp; `TensorFlow.js` &nbsp; `Canvas API` &nbsp; `Tailwind CSS`
-
-Upload a room photo and preview **AI-powered wall color changes** in real-time using in-browser TensorFlow.js inference.
-
-[![View Code](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan-sharma-0/wall-color-changer)&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wall-color-changer-demo.vercel.app)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+`Python` `Diffusion Models` `PyTorch` `Prompt Engineering`
 
 ---
 
-<!-- ██████████████  WORK TIMELINE  ██████████████ -->
+### 🤖 Nova — Python Voice Assistant
+#### `PyQt5` · `SpeechRecognition` · `pyttsx3`
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;Professional Timeline
+> Desktop voice assistant that executes system commands, searches the web, and integrates with APIs through natural spoken language.
 
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │  🟣  2025 ────────────────────────────────────────────── Present  │
-  │                                                                     │
-  │  🚀  Jr. AI/ML Engineer  ·  Novatek Solutions  [Sep 2025–Present] │
-  │       ├─ 🎙️  Built real-time Voice Bot: PipeCat + STT + TTS + LLMs │
-  │       ├─ ⚡  Developed 6+ FastAPI services for ML deployment       │
-  │       └─ 📉  ~30% latency cut via caching & stream routing        │
-  │                                                                     │
-  │  🔵  2024 ─────────────────────────────────────────────────────── │
-  │                                                                     │
-  │  📊  Data Engineering Intern  ·  Qubitnets Technology [Feb–Aug 24]│
-  │       ├─ 🔄  Automated ETL pipelines with Python + SQL             │
-  │       ├─ 💾  DB backup automation & performance monitoring         │
-  │       └─ ⚡  Query optimization → improved data processing speed  │
-  │                                                                     │
-  │  💻  Full Stack Developer  ·  Qubitnets Technology [Mar24–Mar25]  │
-  │       ├─ 🌐  Built 5+ full-stack apps (React · Node.js · MongoDB) │
-  │       ├─ 🔗  Payment, OAuth & real-time API integrations           │
-  │       └─ ⚡  40% faster API response times through optimization   │
-  │                                                                     │
-  │  🟢  2021 ─────────────────────────────────────────────────────── │
-  │                                                                     │
-  │  🎓  B.Tech Computer Science  ·  MDU  [2021 – 2025]               │
-  └─────────────────────────────────────────────────────────────────────┘
-```
+[![View Code](https://img.shields.io/badge/View_on_GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Rajan-sharma-0/Virtual-Assistant)
 
 ---
 
-<!-- ██████████████  SKILL PROGRESS BARS  ██████████████ -->
+### 🏠 Interior AI Wall Color Changer
+#### `React` · `TensorFlow.js` · `Canvas API` · `Tailwind CSS`
 
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> &nbsp;Currently Leveling Up
+> Upload a room photo and preview **AI-powered wall color changes** in real-time using TensorFlow.js for in-browser inference.
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=5000&color=2CB67D&center=true&vCenter=true&width=400&lines=Skills+in+active+development...+%F0%9F%94%A5" alt="" />
+[![View Code](https://img.shields.io/badge/View_on_GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Rajan-sharma-0/wall-color-changer)&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0221?style=for-the-badge&logo=vercel&logoColor=adff2f)](https://wall-color-changer-demo.vercel.app)
 
 </div>
 
-| Skill | Progress | Level |
-|-------|----------|-------|
-| 🧬 LLM Fine-tuning | `████████░░░░` | 65% |
-| 🔍 Advanced RAG | `███████░░░░░` | 60% |
-| ⚛️ React.js | `████████░░░░` | 65% |
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:adff2f,25:00d4ff,50:7b2ff7,75:ff006e,100:adff2f&height=3" width="100%"/>
 
 ---
 
-<!-- ██████████████  ACHIEVEMENTS  ██████████████ -->
-
-## 🏅 Achievements & Stats
+<!-- ═══════════════════  WORK TIMELINE  ═══════════════════ -->
+## 💼 Professional Timeline
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="150">🥉</td>
-<td><b>3rd Place</b> — Tech Fest 2K22 (April 2022)</td>
-</tr>
-<tr>
-<td align="center">🎓</td>
-<td><b>IBM SkillsBuild Certified</b> — Web Dev & Project Management</td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td><b>6+ Production ML Services</b> deployed on AWS & cloud</td>
-</tr>
-<tr>
-<td align="center">💻</td>
-<td><b>5+ Full-Stack Applications</b> live on Vercel & Render</td>
-</tr>
-<tr>
-<td align="center">🩸</td>
-<td><b>500+ Blood Donors</b> onboarded via BloodFinder platform</td>
-</tr>
-</table>
+```
+  2025 ──────────────────────────────────────────────────────── Now
+         │
+         ▼
+  🚀  Jr. AI/ML Engineer  ·  Novatek Solutions  [Sep 2025 – Present]
+      ├─  🎙️  Built real-time Voice Bot: PipeCat + STT + TTS + LLMs
+      ├─  ⚡  Developed 6+ FastAPI services for ML deployment
+      └─  📉  ~30% latency cut via caching & stream routing
+
+  2024 ──────────────────────────────────────────────────────────
+         │
+         ▼
+  📊  Data Engineering Intern  ·  Qubitnets Technology  [Feb–Aug 2024]
+      ├─  🔄  Automated ETL pipelines with Python + SQL
+      ├─  💾  DB backup automation & performance monitoring
+      └─  ⚡  Query optimization → improved data processing speed
+
+         │
+         ▼
+  💻  Full Stack Developer  ·  Qubitnets Technology  [Mar 2024–Mar 2025]
+      ├─  🌐  Built 5+ full-stack apps (React · Node.js · MongoDB)
+      ├─  🔗  Payment, OAuth & real-time API integrations
+      └─  ⚡  40% faster API response times through optimization
+
+  2021 ──────────────────────────────────────────────────────────
+         │
+         ▼
+  🎓  B.Tech Computer Science  ·  MDU  [2021 – 2025]
+```
 
 </div>
 
 ---
 
-<!-- ██████████████  EDUCATION  ██████████████ -->
+<!-- ═══════════════════  GITHUB STATS  ═══════════════════ -->
+## 📊 GitHub Stats & Activity
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajan-sharma-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=ff006e&bg_color=0d0221"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan-sharma-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=adff2f&bg_color=0d0221"/>
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=Rajan-sharma-0&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff006e&currStreakLabel=adff2f&sideLabels=00d4ff&background=0d0221"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan-sharma-0&theme=tokyo-night&bg_color=0d0221&color=00d4ff&line=ff006e&point=adff2f&hide_border=true&area=true&area_color=00d4ff20"/>
+
+</div>
+
+---
+
+
+---
+
+<!-- ═══════════════════  LEARNING PROGRESS  ═══════════════════ -->
+## 📈 Currently Leveling Up
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=5000&color=FF006E&center=true&vCenter=true&width=400&lines=Skills+in+active+development...+🔥" alt="" />
+
+| Skill | Progress |
+|-------|----------|
+| 🧬 LLM Fine-tuning | `████████░░░░` 65% |
+| 🔍 Advanced RAG | `███████░░░░░` 60% |
+| ⚛️ React.js | `████████░░░░` 65% |
+
+</div>
+
+---
+
+<!-- ═══════════════════  EDUCATION  ═══════════════════ -->
 ## 🎓 Education & Certifications
 
 <div align="center">
@@ -400,83 +313,48 @@ Upload a room photo and preview **AI-powered wall color changes** in real-time u
 
 ---
 
-<!-- ██████████████  SNAKE ANIMATION SETUP  ██████████████ -->
-
-## 🐍 Contribution Snake
+<!-- ═══════════════════  ACHIEVEMENTS  ═══════════════════ -->
+## 🏅 Achievements
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajan-sharma-0/Rajan-sharma-0/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajan-sharma-0/Rajan-sharma-0/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rajan-sharma-0/Rajan-sharma-0/output/github-snake.svg" width="100%"/>
-  </picture>
+
+| 🏆 | Achievement |
+|---|---|
+| 🥉 | **3rd Place** — Tech Fest 2K22 (April 2022) |
+| 🎓 | **IBM SkillsBuild Certified** — Web Dev & Project Management |
+| 🚀 | **6+ Production ML Services** deployed on AWS & cloud |
+| 💻 | **5+ Full-Stack Applications** live on Vercel & Render |
+| 🩸 | **500+ Blood Donors** onboarded via BloodFinder platform |
+
 </div>
-
-<details>
-<summary>⚙️ Snake animation one-time setup — click to expand</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rajan-sharma-0
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Go to **Actions → "Generate Snake Animation" → Run workflow** ✅
-
-</details>
 
 ---
 
-<!-- ██████████████  CONNECT  ██████████████ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp;Let's Connect
+<!-- ═══════════════════  CONNECT  ═══════════════════ -->
+## 🤝 Let's Connect
 
 <div align="center">
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-rajansharma800109%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajansharma800109@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-rajansharma800109-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajansharma800109@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajan%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-sharma-8aab19268)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Rajan--sharma--0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan-sharma-0)
 
 <br/>
 
-> 💡 **Open to:** `AI/ML Engineer` · `Python Developer` · `Full Stack`
+> 💡 Open to **AI/ML Engineer · Python Developer · Full Stack** opportunities
 >
-> 📍 **Based in:** Faridabad, Haryana &nbsp;|&nbsp; 🌐 **Available:** Remote / Hybrid / On-site
+> 📍 Based in **Dwarka Mor, New Delhi** — Available for **Remote / Hybrid / On-site**
 
 <br/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=%22The+best+ML+model+solves+a+real+problem.%22;%22Build.+Learn.+Iterate.+Ship.%22;%22From+prompt+to+production+%F0%9F%9A%80%22" alt="Quote" />
+### *"The best machine learning model is the one that solves a real problem."*
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:7f5af0,60:2cb67d,100:ff6b6b&height=150&section=footer&text=Thanks+for+visiting!+⭐+Star+my+repos!&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,25:7b2ff7,60:ff006e,100:0d0221&height=130&section=footer&text=Thanks+for+visiting!+Star+my+repos+if+useful!&fontSize=14&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
