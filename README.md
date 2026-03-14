@@ -14,7 +14,7 @@
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Rajan-sharma-0&style=for-the-badge&color=ff006e&labelColor=0d0221&label=Profile+Views"/>&nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-7b2ff7?style=for-the-badge&labelColor=0d0221"/>&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-adff2f?style=for-the-badge&labelColor=0d0221&logo=checkmarx&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Status-Open%20to%20Work-adff2f?style=for-the-badge&labelColor=0d0221&logo=checkmarx&logoColor=white"/> -->
 
 <br/><br/>
 
